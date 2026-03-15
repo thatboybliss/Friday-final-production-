@@ -94,6 +94,10 @@ eas build --platform android
 | `EXPO_PUBLIC_GEMINI_API_KEY` | Gemini API key for mobile/web |
 | `API_KEY` | Fallback API key for web |
 
+## Additional Design Docs
+
+- `VOXPARTY_ENGINE_BLUEPRINT.md`: End-to-end architecture blueprint for an AI-hosted multiplayer party-game system (React + Go + Gin + WebSockets + PostgreSQL).
+
 ## Tech Stack
 
 - **React Native** 0.81
